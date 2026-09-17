@@ -58,25 +58,6 @@ P2.design/
 
 ---
 
-## 🚀 Getting Started
-
-You can preview and run this project locally without any tools or dependencies:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/sachin07-a/P2.design.git
-```
-
-### 2. Navigate to the project directory
-```bash
-cd P2.design
-```
-
-### 3. Open in Browser
-- Double-click `index.html` or `p2.html` to open it directly in your browser (Chrome, Brave, Edge, Firefox), or
-- In **VS Code**, right-click `index.html` and select **"Open with Live Server"**.
-
----
 
 ## 🛠️ Built With
 
