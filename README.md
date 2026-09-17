@@ -1,6 +1,13 @@
-﻿<div align="center">
+<div align="center">
 
 # 🏎️ PORSCHE 911 GT3 — Modern Automotive Landing Page UI
+
+
+## 📍 Preview
+
+<div align="center">
+  <img src="./preview.png" alt="Porsche 911 GT3 Landing Page UI Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+</div>
 
 <p align="center">
   <strong>A handcrafted, sleek, and high-performance landing page concept for the Porsche 911 GT3 built with pure HTML5 & CSS3.</strong>
@@ -52,6 +59,7 @@ P2.design/
 ├── index.html           # Web entry point
 ├── p2.html              # Core landing page template
 ├── p2.css               # Styling and flexbox layout rules
+├── preview.png          # UI preview screenshot
 ├── .gitignore           # Git ignore rules
 └── README.md            # Project documentation
 ```
